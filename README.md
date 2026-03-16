@@ -82,10 +82,10 @@ Automation scripts for automated data collection and processing.
 # 🌐 Connect with Me
 
 💼 LinkedIn  
-🔗 https://linkedin.com/in/SEU-LINKEDIN
+🔗 https://www.linkedin.com/in/rolf-gonser/
 
 💻 GitHub  
-🔗 https://github.com/SEU-USUARIO
+🔗 https://github.com/nakombi
 
 ---
 
