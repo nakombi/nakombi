@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rolf Herbert Gonser
+# 👋 Olá, sou Rolf Herbert Gonser
 
 💡 Engenheiro de Dados em formação, focado na construção de pipelines de dados confiáveis ​​e na transformação de dados brutos em insights valiosos.
 
