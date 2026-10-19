@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Rolf Herbert Gonser
 
-💡 Data Engineer in progress focused on building reliable data pipelines and transforming raw data into valuable insights.
+💡 Engenheiro de Dados em formação, focado na construção de pipelines de dados confiáveis ​​e na transformação de dados brutos em insights valiosos.
 
-I am passionate about **data engineering, automation and scalable data systems**. My goal is to design efficient pipelines that collect, process and structure data to support analytics and data-driven decision making.
+👷‍♂️ Sou apaixonado por engenharia de dados, automação e sistemas de dados escaláveis . Meu objetivo é projetar fluxos de trabalho eficientes que coletem, processem e estruturem dados para dar suporte a análises e à tomada de decisões baseadas em dados.
 
 ---
 
