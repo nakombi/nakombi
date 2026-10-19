@@ -8,11 +8,11 @@ I am passionate about **data engineering, automation and scalable data systems**
 
 # 🚀 About Me
 
-🎓 Student of Systems Analysis and Development  
-📊 Focused on Data Engineering and Data Infrastructure  
-⚙️ Building projects involving data pipelines and automation  
-📚 Constantly learning new data technologies  
-🌎 Interested in scalable and cloud-based data systems  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+📊 Focado em Engenharia de Dados e Infraestrutura de Dados
+⚙️ Construindo projetos envolvendo pipelines de dados e automação
+📚 Aprendendo constantemente novas tecnologias de dados
+🌎 Interessado em sistemas de dados escaláveis ​​e baseados em nuvem 
 
 ---
 
