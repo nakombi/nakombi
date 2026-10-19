@@ -47,17 +47,29 @@
 
 # 📂 Featured Projects
 
-### 🔹 Data Pipeline Project
-Pipeline for extracting, transforming and loading datasets using **Python and SQL**.
+🔹 **Análise de Dados SQL (Enterprise Analytics & Performance)**
+  * **Otimização & Inteligência de Negócio:** Construção de consultas SQL avançadas e estruturadas para exploração de grandes bases de dados. Aplicação de técnicas de agregação complexas, subqueries e cruzamentos relacionais (`INNER JOIN`, `LEFT JOIN`) para extração de métricas de negócio e suporte à tomada de decisão de alta performance.
+  * **Stack:** SQL Server, T-SQL, SSMS, Advanced SQL.
 
-### 🔹 SQL Data Analysis
-Advanced SQL queries for analyzing structured datasets.
+🔹 **Scripts de Automação (Cloud & Data Ingestion Automation)**
+  * **Automação & Processamento:** Criação de scripts em Python desenvolvidos para automatizar a recolha, validação e limpeza de dados de múltiplas fontes. Os fluxos reduzem a intervenção manual, asseguram a consistência dos dados inseridos nos pipelines e preparam bases estruturadas para consumo downstream.
+  * **Stack:** Python, Pandas, Automação de Processos, APIs, VS Code.
 
-### 🔹 Data Processing with Pandas
-Data cleaning, transformation and analysis using Python.
+🔹 **Cloud-Native ELT Data Pipeline (AWS & Databricks)**
+  * **Arquitetura & Engenharia:** Construção de um pipeline ELT end-to-end na nuvem. Ingestão de dados brutos para o Amazon S3 (Data Lake), processamento distribuído utilizando PySpark no Databricks e armazenamento estruturado em formato Delta Lake para análises de alta performance.
+  * **Stack:** AWS (S3), Databricks, PySpark, Delta Lake, Python, SQL.
 
-### 🔹 Automation Scripts
-Automation scripts for automated data collection and processing.
+🔹 **Enterprise Cloud Data Warehouse & Advanced Analytics**
+  * **Otimização & Consultas:** Desenvolvimento de modelos dimensionais e consultas SQL complexas (Window Functions, CTEs) para consumo analítico integrado a bases de dados na nuvem.
+  * **Stack:** AWS (RDS / Redshift), Databricks SQL, T-SQL, SSMS.
+
+🔹 **Distributed Data Transformation with PySpark**
+  * **Big Data & Limpeza:** Evolução de processos de tratamento e validação de dados em larga escala, migrando de processamento local para computação distribuída em clusters Spark.
+  * **Stack:** Databricks, Python, Pandas, Spark SQL.
+
+🔹 **Cloud Automation & Serverless Data Ingestion**
+* **Automação & Orquestração:** Desenvolvimento de scripts automatizados em Python integrados com serviços de nuvem para recolha, validação e carga contínua de dados em buckets do S3.
+* **Stack:** Python, AWS (S3, Lambda / EC2), Git/GitHub.
 
 ---
 
@@ -71,10 +83,17 @@ Automation scripts for automated data collection and processing.
 
 # 📚 Currently Learning
 
-- Data Pipelines Architecture
-- Cloud Data Platforms
-- Data Warehousing
-- Workflow Orchestration
+- **Data Pipeline Architecture** — Projetando e estruturando pipelines de dados confiáveis.
+   
+- **Cloud Data Platforms** — Explorando serviços em nuvem e soluções de Engenharia de Dados.
+  
+- **Data Storage & Data Lakes** — Estudando sistemas de armazenamento e arquiteturas modernas de dados.
+  
+- **Workflow Orchestration** — Aprendendo a automatizar, agendar e monitorar fluxos de trabalho de dados.
+   
+- **ETL/ELT Processes** — Desenvolvendo conhecimentos em processos de extração, transformação e carregamento de dados.
+  
+- **Data Warehousing & Data Modeling** — Aprendendo a estruturar e modelar dados para análises e relatórios.  
 
 ---
 
